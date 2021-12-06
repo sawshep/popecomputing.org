@@ -1,0 +1,15 @@
+[general]
+# For now this can only be a single directory, no
+# subdirectories allowed!
+out_dirname = "out"
+
+# "blog" or "project"
+mode = "project"
+
+# If (header|footer)_filename is an empty string, no header
+# or footer will be added to the rendered pages
+header_filename = "header.html"
+footer_filename = "footer.html"
+
+[blog]
+posts_dirname = "post"
