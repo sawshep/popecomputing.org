@@ -1,13 +1,6 @@
-# Members
-
-<nav>
-* [Homepage](/)</li>
-* [Sign-Up Form](/join)</li>
-* [Members](/members)</li>
-</nav>
-
 <main>
-<section>
+
+# Members
 
 ## Leadership
 
@@ -26,10 +19,18 @@ Treasurer
 Board
 : To be elected
 
-</section>
-<section>
-
 ## Member List
 
-</section>
+These are not all members of the club, only those who have
+elected for their names to be published.
+
+* Scott Ampudia
+* Lawson Delage
+* Lexie Gordon
+* Mark He
+* Gregory Hearn
+* Jesse Issah
+* Jake Johnson
+* Evan Levy
+
 </main>
