@@ -32,10 +32,10 @@ following are just a few examples:
 
 ## Meetings
 
-Computing Club will meet every Tuesday after school in Mr.
-Groeneveld's room (315) starting second semester. All
-registered club members will receive an email prior to the
-first meeting as a reminder.
+Computing Club will meet every ~~Tuesday~~ **Thursday**
+after school in Mr. Groeneveld's room (315) starting second
+semester. All registered club members will receive an email
+prior to the first meeting as a reminder.
 
 <!-- This is at the bottom because of weird CSS stuff. -->
 <h1 hidden>Pope High School Computing Club</h1>
