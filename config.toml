@@ -11,5 +11,7 @@ mode = "project"
 header_filename = "header.html"
 footer_filename = "footer.html"
 
+external_links_target_blank = true
+
 [blog]
 posts_dirname = "post"
