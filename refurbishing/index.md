@@ -44,7 +44,7 @@ either [Cross-Platform Flashing
 Instructions](#cross-platform-flashing-instructions) or
 [POSIX Flashing Instructions](#posix-flashing-instruction).
 
-Be careful while flashing USBs; if an incorrect disk is
+Be careful when flashing USB sticks; if an incorrect disk is
 selected, data on said disk can be **irreversably
 destroyed**!
 
@@ -80,8 +80,10 @@ Requirements:
 
 Download the Xubuntu image zip file from the link provided.
 
-Plug the flash drive into the computer and proceed with
-the instructions for your respective platform.
+Plug the flash drive into the computer and proceed with the
+instructions for your respective platform. Be careful when
+formatting flash drives; if an incorrect disk is selected,
+data on said disk can be **irreversably destroyed**!
 
 ### Formatting a Flash Drive (Windows)
 
