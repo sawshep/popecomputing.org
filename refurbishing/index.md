@@ -5,9 +5,14 @@
 ## About
 
 Parts4Hearts is the refurbishing branch of the Pope
-Computing Club. The Club works with the [World Computer
-Exchange](https://worldcomputerexchange.org) to refurbish
-computers for schools in need around the world.
+Computing Club. Parts4Hearts seeks to provide students in
+need around the metropolitan Atlanta area with fully
+functional laptops, closing the digital divide. The Club
+also donates a portion of refurbished computers to the
+[World Computer
+Exchange](https://worldcomputerexchange.org), an
+organization that ships computers to students in need
+overseas.
 
 ## Donate
 
