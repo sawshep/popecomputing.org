@@ -5,7 +5,7 @@
 ## Leadership
 
 Computing Club President
-: TDB
+: TBD
 
 Parts for Hearts President
 : TBD
@@ -28,7 +28,7 @@ elected for their names to be published.
 * Yash Laddha
 * Evan Levy
 * Parker Osborn
-* Anshul Panchql
+* Anshul Panchal
 * Sawyer Shepherd
 
 </main>
