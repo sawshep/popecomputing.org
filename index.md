@@ -32,10 +32,10 @@ following are just a few examples:
 
 ## Meetings
 
-Computing Club will meet every ~~Tuesday~~ **Thursday**
-after school in Mr. Groeneveld's room (315) starting second
-semester. All registered club members will receive an email
-prior to the first meeting as a reminder.
+Computing club meets every other Thursday from 3:30 to 5 PM
+in room 315 (Mr. Groeneveld's). Reminder emails are sent out
+before each meeting. See the 2021--2022 calendar
+[here](image/2021-2022-calendar.png).
 
 <!-- This is at the bottom because of weird CSS stuff. -->
 <h1 hidden>Pope High School Computing Club</h1>
