@@ -20,6 +20,7 @@ elected for their names to be published.
 
 * Scott Ampudia
 * Lawson Delage
+* Omar Elkady
 * Lexie Gordon
 * Mark He
 * Gregory Hearn
