@@ -5,13 +5,13 @@
 ## Leadership
 
 Computing Club President
-: TBD
+: Sawyer Shepherd
 
 Parts for Hearts President
-: TBD
+: Sean Yan
 
 Competition and Fundraiser President
-: TBD
+: Sawyer Shepherd
 
 ## Member List
 
