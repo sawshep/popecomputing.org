@@ -30,12 +30,22 @@ following are just a few examples:
   the world.
 
 
-## Meetings
+## Calendar
 
 Computing club meets every other Thursday from 3:30 to 5 PM
 in room 315 (Mr. Groeneveld's). Reminder emails are sent out
-before each meeting. See the 2021--2022 calendar
-[here](image/2021-2022-calendar.png).
+before each meeting. See the meeting calendar below and the
+Cobb County School District calendar
+[here](https://www.cobbk12.org/page/59/calendar).
+
+* ~~Feb 03, 2022~~
+* ~~Feb 17, 2022~~
+* ~~Mar 10, 2022~~
+* ~~Mar 24, 2022~~
+* ~~Apr 14, 2022~~
+* ~~Apr 28, 2022~~ (Postponed)
+* May 05, 2022
+* May 19, 2022
 
 <!-- This is at the bottom because of weird CSS stuff. -->
 <h1 hidden>Pope High School Computing Club</h1>
