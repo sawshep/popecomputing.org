@@ -27,7 +27,7 @@ Additionally, you control how your website operates. Hosting
 a website on your own server allows you to tailor it to your
 own niche use cases and workflows. For example, this very
 website implements something called "continuous
-integration"--every time changes are pushed to the source
+integration"; every time changes are pushed to the source
 repository, the server pulls the new changes, builds them,
 and deploys them live.
 
