@@ -7,7 +7,7 @@
 Computing Club President
 : Sawyer Shepherd
 
-Parts for Hearts President
+Parts4Hearts President
 : Sean Yan
 
 Competition and Fundraiser President
