@@ -1,8 +1,6 @@
 <main>
 
-# Make your own website
-
-(WIP)
+# Three ways to make your own website (WIP)
 
 ## Why?
 
