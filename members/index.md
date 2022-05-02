@@ -13,6 +13,9 @@ Parts4Hearts President
 Competition and Fundraiser President
 : Sawyer Shepherd
 
+Public Affairs Officer
+: Paul Stravelli
+
 ## Member List
 
 These are not all members of the club, only those who have
@@ -35,6 +38,7 @@ elected for their names to be published.
 * Anshul Panchal
 * Sawyer Shepherd
 * Camiryn Stauffer
+* Paul Stravelli
 * Sean Yan
 
 </main>
