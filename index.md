@@ -38,21 +38,12 @@ before each meeting. See the meeting calendar below and the
 Cobb County School District calendar
 [here](https://www.cobbk12.org/page/59/calendar).
 
-* ~~Feb 03, 2022~~
-* ~~Feb 17, 2022~~
-* ~~Mar 10, 2022~~
-* ~~Mar 24, 2022~~
-* ~~Apr 14, 2022~~
-* ~~Apr 28, 2022~~ (Postponed)
-* May 05, 2022
-* May 19, 2022
+Club will not be meeting again in the 2021--2022 school
+year. Have a great summer members!
 
 <!-- This is at the bottom because of weird CSS stuff. -->
 <h1 hidden>Pope High School Computing Club</h1>
-
 </main>
-
-
 <aside>
 
 ## Contact
