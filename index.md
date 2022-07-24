@@ -38,8 +38,8 @@ before each meeting. See the meeting calendar below and the
 Cobb County School District calendar
 [here](https://www.cobbk12.org/page/59/calendar).
 
-Club will not be meeting again in the 2021--2022 school
-year. Have a great summer members!
+The calendar for the 2022--2023 school year is TDB. Keep an
+eye on your email inbox!
 
 <!-- This is at the bottom because of weird CSS stuff. -->
 <h1 hidden>Pope High School Computing Club</h1>
