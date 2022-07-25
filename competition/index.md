@@ -1,10 +1,10 @@
 <main>
 
-# CompSci Conquerors
+# Hacking Team
 
 ## About
 
-CompSci Conquerors is the competition and fundraising branch
+The hacking team is the competition and fundraising branch
 of the Computing Club.
 
 ## Linux Environment
