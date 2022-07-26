@@ -5,7 +5,9 @@
 ## About
 
 The hacking team is the competition and fundraising branch
-of the Computing Club.
+of the Computing Club. The team seeks to teach cybersecurity
+through competition, both locally amongst members and in
+national team competitions.
 
 ## Linux Environment
 
