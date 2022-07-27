@@ -10,10 +10,13 @@ Computing Club President
 Parts4Hearts President
 : Sean Yan
 
-Competition and Fundraiser President
+Hacking Team Captain
 : Sawyer Shepherd
 
 Public Affairs Officer
+: Paul Stravelli
+
+Graphic Designer
 : Paul Stravelli
 
 ## Member List
