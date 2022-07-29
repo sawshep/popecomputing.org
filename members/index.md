@@ -30,8 +30,9 @@ elected for their names to be published.
 * Lawson Delage
 * Lucas Diaz
 * Erin Ding
-* Nihi Durzyrsk
+* Niki Durzynski
 * Lexie Gordon
+* Ryan Grunert
 * Gregory Hearn
 * Jesse Issah
 * Hyunsoo Jang
