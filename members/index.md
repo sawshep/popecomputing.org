@@ -25,23 +25,40 @@ These are not all members of the club, only those who have
 elected for their names to be published.
 
 * Scott Ampudia
+* Christopher Balcombe
+* Bryce Chapin
 * Lawson Delage
-* Omar Elkady
+* Lucas Diaz
+* Erin Ding
+* Nihi Durzyrsk
 * Lexie Gordon
-* Mark He
 * Gregory Hearn
 * Jesse Issah
+* Hyunsoo Jang
 * Jake Johnson
+* Grayson Johnston
+* Meira Kane
+* Naveena Kannan
 * Nick Klatt
+* Sharvil Kulkarni
 * Yash Laddha
-* Evan Levy
-* Simon OConnor
+* Dylan Mashini
+* Prakash Mitra
+* Jay Nath
+* Simon O'Connor
 * Meher Oke
-* Parker Osborn
 * Anshul Panchal
+* Neal Sharma
 * Sawyer Shepherd
+* Ayaan Siddique
 * Camiryn Stauffer
+* Vann Stippich
 * Paul Stravelli
+* Jeet Suah
+* Siho Sung
+* Trey Trotti
+* Mandy Varma
+* Elijah Williams
 * Sean Yan
 
 </main>
