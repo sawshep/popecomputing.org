@@ -158,8 +158,6 @@ directory over the root directory.
 
 </details>
 
-</main>
-
 ## Other Quirks
 
 Just like the double-dot directory (`..`), there are many
@@ -182,3 +180,5 @@ cases.
 This lesson covered just the prerequisite basics of paths so
 we can jump into competitions as soon as possible. We will
 learn the rest through experience---the best teacher.
+
+</main>
