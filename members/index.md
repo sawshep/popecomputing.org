@@ -43,6 +43,7 @@ elected for their names to be published.
 * Nick Klatt
 * Sharvil Kulkarni
 * Yash Laddha
+* Ishaan Marwaha
 * Dylan Mashini
 * Prakash Mitra
 * Jay Nath
