@@ -159,3 +159,26 @@ directory over the root directory.
 </details>
 
 </main>
+
+## Other Quirks
+
+Just like the double-dot directory (`..`), there are many
+other tricks to working effictiently with paths.
+
+On Linux, MacOS, and similar systems, tilde (`~`) is a
+shortcut for the home directory of the logged-in user. So,
+if you were logged in as Bob, `~` would be the same as
+`/home/bob/`.
+
+Additionally, there is a single-dot directory (`.`) that
+represents the current working directory. For example, if
+the working directory is `/home/alice/`, `.` would refer to
+the exact same directory---`/home/alice/`. At first glance
+this seems useless, but it has some important advanced use
+cases.
+
+## Conclusion
+
+This lesson covered just the prerequisite basics of paths so
+we can jump into competitions as soon as possible. We will
+learn the rest through experience---the best teacher.
