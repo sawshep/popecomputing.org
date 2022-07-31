@@ -52,6 +52,7 @@ elected for their names to be published.
 * Neal Sharma
 * Sawyer Shepherd
 * Ayaan Siddique
+* Ekansh Singh
 * Camiryn Stauffer
 * Vann Stippich
 * Paul Stravelli
