@@ -161,7 +161,7 @@ directory over the root directory.
 ## Other Quirks
 
 Just like the double-dot directory (`..`), there are many
-other tricks to working effictiently with paths.
+other tricks to working efficiently with paths.
 
 On Linux, MacOS, and similar systems, tilde (`~`) is a
 shortcut for the home directory of the logged-in user. So,
