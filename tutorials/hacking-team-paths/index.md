@@ -102,6 +102,8 @@ Try some yourself!
 <summary>If the working directory is `etc/`, what is the
 relative path to `config2.txt`?</summary>
 
+`config2.txt`
+
 </details>
 
 <details>
