@@ -88,7 +88,7 @@ the root directory?</summary>
 
 </details>
 
-### Relative Path
+### Relative Paths
 
 Now, onwards with relative paths! Relative paths are
 directions to a file or directory starting from your working
