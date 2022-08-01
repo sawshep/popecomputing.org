@@ -30,7 +30,7 @@ page](/tutorials).
 #. Battery holds charge (if applicable)
 #. Device POSTs successfully
 #. BIOS setup is unlocked
-#. Hard drive has been zeored (upon donor's request)
+#. Hard drive has been zero'ed (upon donor's request)
 #. Custom Ubuntu distro has been flashed to the disk
 #. Operating system boots
 #. Keyboard and mouse work
