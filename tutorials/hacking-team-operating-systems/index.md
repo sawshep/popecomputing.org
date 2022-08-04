@@ -7,55 +7,6 @@ parts of an operating system are and how they work together.
 How do we get from hardware to the browser you're reading
 this on? 
 
-## Hardware
-
-While not technically part of the operating system, hardware
-is what actually allows a computer to compute and is
-important to know if we want to understand higher-level
-cybersecurity concepts.
-
-### CPU
-
-The CPU, or central processing unit, executes instructions
-from software. They are best at handling a few intensive
-calculations.
-
-Sometime, CPU's have a small weak embedded graphics
-processing unit. This helps reduce the cost of PC's geared
-towards office work; a more powerful dedicated graphics card
-would go mostly unused.
-
-### GPU
-
-The GPU, or graphics processing unit, is meant to handle
-many quick-to-compute calculations. As it may happen, many
-calculations needed to render lighting and other graphics
-fall into this category. Another example is cryptocurrency.
-
-### RAM
-
-RAM, or random access memory, is extremely fast
-temporary storage in which running programs store
-information in.
-
-You can image RAM like a row of thousands of cubbies. Every
-cubby has its own address. Because each cubby can only hold
-so much, a program may have to store its data over multiple
-cubbies.
-
-### PSU
-
-The PSU, or power supply unit, converts the alternating
-current from your wall outlet to direct current that your
-computer can use.
-
-### HDD/SSD
-
-Hard disk drives and solid state drives keep persistent data
-even when you turn off your computer. Remember, this is
-unlike RAM which requires power to store data. Typically,
-it is slower to access data on hard drives than SSD's.
-
 ## Drivers
 
 Every piece of hardware works differently, and the operating

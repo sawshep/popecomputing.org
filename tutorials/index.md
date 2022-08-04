@@ -4,6 +4,8 @@
 
 [Hacking Team: Operating Systems](hacking-team-operating-systems)
 
+[Hacking Team: Hardware](hacking-team-hardware)
+
 [Hacking Team: Paths](hacking-team-paths)
 
 [Creating a Clonezilla Live USB](clonezilla-live-usb)
