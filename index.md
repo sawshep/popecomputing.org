@@ -36,10 +36,24 @@ Computing club meets every other Thursday from 3:30 to 5 PM
 in room 315 (Mr. Groeneveld's). Reminder emails are sent out
 before each meeting. See the meeting calendar below and the
 Cobb County School District calendar
-[here](https://www.cobbk12.org/page/59/calendar).
+[here](https://www.cobbk12.org/page/59/calendar). Note that
+this calendar is tentative and subject to change!
 
-The calendar for the 2022--2023 school year is TDB. Keep an
-eye on your email inbox!
+* August 18, 2022
+* September 1, 2022
+* September 15, 2022
+* October 13, 2022
+* October 27, 2022
+* November 10, 2022
+* December 8, 2022
+* January 12, 2023
+* January 26, 2023
+* February 9, 2023
+* March 9, 2023
+* March 23, 2023
+* April 20, 2023
+* May 4, 2023
+* May 18, 2023
 
 <!-- This is at the bottom because of weird CSS stuff. -->
 <h1 hidden>Pope High School Computing Club</h1>
