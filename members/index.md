@@ -26,13 +26,14 @@ elected for their names to be published.
 
 * Scott Ampudia
 * Christopher Balcombe
+* Payton Basak
 * Bryce Chapin
 * Lawson Delage
 * Lucas Diaz
 * Erin Ding
 * Niki Durzynski
 * Lexie Gordon
-* Ryan Grunert
+* Ryan Grunert 
 * Gregory Hearn
 * Jesse Issah
 * Hyunsoo Jang
@@ -45,23 +46,21 @@ elected for their names to be published.
 * Yash Laddha
 * Ishaan Marwaha
 * Dylan Mashini
-* Prakash Mitra
-* Jay Nath
+* Prakash Mitra 
+* Jay Natu
 * Simon O'Connor
 * Meher Oke
 * Anshul Panchal
+* Jeet Shah
 * Neal Sharma
-* Sawyer Shepherd
 * Ayaan Siddique
 * Ekansh Singh
 * Camiryn Stauffer
 * Vann Stippich
-* Paul Stravelli
-* Jeet Suah
 * Siho Sung
 * Trey Trotti
 * Mandy Varma
+* Noah Wiley
 * Elijah Williams
-* Sean Yan
 
 </main>
