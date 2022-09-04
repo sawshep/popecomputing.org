@@ -35,9 +35,9 @@ following are just a few examples:
 Computing club meets every other Thursday from 3:30 to 5 PM
 in room 315 (Mr. Groeneveld's). Reminder emails are sent out
 before each meeting. See the meeting calendar below and the
-Cobb County School District calendar
-[here](https://www.cobbk12.org/page/59/calendar). Note that
-this calendar is tentative and subject to change!
+[Cobb County School District
+calendar](https://www.cobbk12.org/page/59/calendar). Note
+that this calendar is tentative and subject to change!
 
 * August 18, 2022
 * September 1, 2022
