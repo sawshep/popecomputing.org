@@ -51,6 +51,7 @@ elected for their names to be published.
 * Simon O'Connor
 * Meher Oke
 * Anshul Panchal
+* Rhea Rao
 * Jeet Shah
 * Neal Sharma
 * Ayaan Siddique
