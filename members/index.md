@@ -8,7 +8,7 @@ Computing Club President
 : Sawyer Shepherd
 
 Parts4Hearts President
-: Sean Yan
+: Sawyer Shepherd
 
 Hacking Team Captain
 : Sawyer Shepherd
@@ -18,6 +18,13 @@ Public Affairs Officer
 
 Graphic Designer
 : Paul Stravelli
+
+Founders
+: Yash Laddha
+: Anshul Panchal
+: Sawyer Shepherd
+: Sean Yan
+
 
 ## Member List
 
@@ -33,7 +40,7 @@ elected for their names to be published.
 * Erin Ding
 * Niki Durzynski
 * Lexie Gordon
-* Ryan Grunert 
+* Ryan Grunert
 * Gregory Hearn
 * Jesse Issah
 * Hyunsoo Jang
@@ -46,7 +53,7 @@ elected for their names to be published.
 * Yash Laddha
 * Ishaan Marwaha
 * Dylan Mashini
-* Prakash Mitra 
+* Prakash Mitra
 * Jay Natu
 * Simon O'Connor
 * Meher Oke
