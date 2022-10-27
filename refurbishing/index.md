@@ -18,7 +18,11 @@ need across the world.
 
 ## Donate
 
-Interested in donating computers to Parts4Hearts? Please
+Due to logistical issues, we are **no longer accepting
+desktop computers, monitors, keyboards, or mice** for
+donation as of 2022-10-27.
+
+Interested in donating laptops to Parts4Hearts? Please
 reach out to <a
 href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%63%6F%6E%74%61%63%74%40%70%6F%70%65%63%6F%6D%70%75%74%69%6E%67%2E%6F%72%67">contac<!--a@b-->t@popec<!--
 c@d-->omputin<!--e.f -->g.org</a>.
