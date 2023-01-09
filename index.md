@@ -46,7 +46,7 @@ that this calendar is tentative and subject to change!
 * October 27, 2022
 * November 10, 2022
 * December 8, 2022
-* January 12, 2023 (may be cancelled)
+* ~~January 12, 2023 (cancelled)~~
 * January 26, 2023
 * February 9, 2023
 * March 9, 2023
