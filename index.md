@@ -29,10 +29,9 @@ following are just a few examples:
   loaded with educational content to schools in need across
   the world.
 
+## Parts4Hearts Calendar
 
-## Calendar
-
-Computing club meets every other Thursday from 3:30 to 5 PM
+Parts4Hearts meets every other Thursday from 3:30 to 5 PM
 in room 315 (Mr. Groeneveld's). Reminder emails are sent out
 before each meeting. See the meeting calendar below and the
 [Cobb County School District
@@ -47,13 +46,26 @@ that this calendar is tentative and subject to change!
 * November 10, 2022
 * December 8, 2022
 * ~~January 12, 2023 (cancelled)~~
-* January 26, 2023
-* February 9, 2023
+* February 2, 2023
+* February 16, 2023
 * March 9, 2023
 * March 23, 2023
 * April 20, 2023
 * May 4, 2023
 * May 18, 2023
+
+## Hacking Team Calendar
+
+Hacking Team meets about every other Wednesday online in the
+club Discord server at 5PM. The following is a tentative
+calendar and is subject to change!
+
+* February 1, 2023
+* February 15, 2023
+* March 1, 2023
+* March 15, 2023
+* April 5, 2023
+* May 3, 2023
 
 <!-- This is at the bottom because of weird CSS stuff. -->
 <h1 hidden>Pope High School Computing Club</h1>
