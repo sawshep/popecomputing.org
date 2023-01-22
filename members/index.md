@@ -8,10 +8,10 @@ Computing Club President
 : Sawyer Shepherd
 
 Parts4Hearts President
-: Sawyer Shepherd
+: Sean Yan
 
 Hacking Team Captain
-: Sawyer Shepherd
+: Niki Durzynski
 
 Public Affairs Officer
 : Paul Stravelli
