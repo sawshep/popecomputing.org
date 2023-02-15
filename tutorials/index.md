@@ -2,6 +2,8 @@
 
 # Tutorials
 
+[Hacking Team: How to join picoCTF](https://www.youtube.com/watch?v=a4WZeasf99c)
+
 [Hacking Team: Getting Started with OverTheWire](hacking-team-getting-started-with-overthewire)
 
 [Hacking Team: Paths](hacking-team-paths)
