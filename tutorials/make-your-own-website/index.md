@@ -84,7 +84,7 @@ configuration is working.
 ### Github Pages
 
 [Github Pages](https://docs.github.com/en/pages) is a free service by [Github](https://github.com)
-that allows you to host awebsite from a Github repository 100% free.
+that allows you to host a website from a Github repository 100% free.
  To get started, create a new repository and name it
 `[yourusername].github.io`. Then, upload/create a `index.html` file
 in the root of the repository, and add any other website content.
