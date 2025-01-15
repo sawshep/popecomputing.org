@@ -4,20 +4,18 @@
 
 ## Leadership
 
-Computing Club President
-: Sawyer Shepherd
+President
+: Lexi Gordon
 
-Parts4Hearts President
-: Sean Yan
+Vice Presidents
+: Rhea Rao & Jeet Shah
 
-Hacking Team Captain
-: Niki Durzynski
+PR Team
+: Krish Sharma, Yuri Sung, AJ Fernandez
 
-Public Affairs Officer
-: Paul Stravelli
+Lead Developer
+: Ishaan Marwaha
 
-Graphic Designer
-: Paul Stravelli
 
 Founders
 : Yash Laddha
@@ -34,11 +32,9 @@ elected for their names to be published.
 * Scott Ampudia
 * Christopher Balcombe
 * Payton Basak
-* Bryce Chapin
 * Lawson Delage
 * Lucas Diaz
 * Erin Ding
-* Niki Durzynski
 * Lexie Gordon
 * Ryan Grunert
 * Gregory Hearn
@@ -50,22 +46,15 @@ elected for their names to be published.
 * Naveena Kannan
 * Nick Klatt
 * Sharvil Kulkarni
-* Yash Laddha
 * Ishaan Marwaha
-* Dylan Mashini
 * Prakash Mitra
-* Jay Natu
-* Simon O'Connor
 * Meher Oke
-* Anshul Panchal
 * Rhea Rao
 * Jeet Shah
-* Neal Sharma
 * Ayaan Siddique
 * Ekansh Singh
 * Camiryn Stauffer
 * Vann Stippich
-* Siho Sung
 * Trey Trotti
 * Mandy Varma
 * Noah Wiley
